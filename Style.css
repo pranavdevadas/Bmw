@@ -1,0 +1,266 @@
+body{
+    font-family:BMWTypeNextLatin,Helvetica,Arial,Hiragino Kaku Gothic ProN,Hiragino Sans,Meiryo,sans-serif;;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    
+    height: 80px;
+    width: 100%;
+    
+}
+.inner-navbar{
+    display: flex;
+    /* background-color: red; */
+    width: 600px;
+    height: 40px;
+    margin-left:250px ;
+    justify-content: space-evenly;
+    display: flex;
+}
+.navbar p{
+    color: rgb(255, 255, 255);
+}
+.searchicon{
+    width: 25px;
+    height: 20px;
+    margin-top: 1.3%;
+}
+.searchicon img{
+    max-width: 100%;
+}
+.I{
+    margin-left: 861px;
+    margin-top: -36px;
+    font-size: 28px;
+    width: 2px;
+}
+.world{
+    margin-left: 880px;
+    margin-top: -57px;
+    position: absolute;
+    width: 26px;
+}
+.navbar h6{
+    margin-left: 920px;
+    margin-top: -48px;
+    position: absolute;
+}
+.underline{
+    width: 770px;
+    height: 1px;
+    background-color: #fff;
+    margin-left: 261px;
+    margin-top: -8px;
+    position: absolute;
+}
+.navbar h5{
+    margin-left: 886px;
+}
+.bmw-logo{
+    margin-left: 1050px;
+    margin-top: -95px;
+    position: absolute;
+}
+/* ---------------------------------nav bar------------------------------- */
+section{
+    width: 100%;
+    height: 80vh;
+    background: url(Images/homepage\ backgrount.png);
+    margin-top: -80px;
+}
+/* --------------------------------------------------------------------------- */
+.home-txt p{
+    font-size: 27px;
+    line-height: 45px;
+    margin-top: -350px;
+    position: absolute;
+    color: gray;
+    margin-left: 74px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+.home-txt h3{
+    color: #000000;
+    font-size: 65px;
+    position: absolute;
+    margin-top: -294px;
+    margin-left: 74px;
+    color: #fff;
+}
+.home-txt button{
+    background-color: transparent;
+    color: none;
+    border: 2px solid;
+    width: 130px;
+    height: 45px;
+    position: absolute;
+    margin-top: -128px;
+    margin-left: 80px;
+    border-color: #fff;
+    color: #fff;
+    cursor: pointer;
+}
+.home-txt button:hover{
+    background-color: #fff;
+    color: #000000;
+}
+/* --------------------------------------------------------------- */
+.second-row{
+    width: 1348px;
+    height: 650px;
+    /* background-color: blue; */
+    display: flex;
+    justify-content:space-between ;
+    margin-top: 2px;
+}
+.backgrount2{
+    width: 673px;
+    height: 650px;
+}
+.backgrount2 img{
+    max-width: 100%;
+}
+.backgrount2 p{
+    font-size: 27px;
+    line-height: 45px;
+    margin-top: -350px;
+    position: absolute;
+    color: #262626;
+    margin-left: 74px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+.backgrount2 h5{
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: -300px;
+    margin-left: 74px;
+    color: #262626;
+    position: absolute  ;
+}
+.backgrount2 button{
+    background-color: transparent;
+    border: 2px solid;
+    width: 130px;
+    height: 45px;
+    position: absolute;
+    margin-top: 539px;
+    margin-left: -574px;
+    border-color: #262626;
+    color: #262626;
+    cursor: pointer;
+}
+.backgrount2 button:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+/* ------------------------------------------------------ */
+.backgrount22{
+    width: 673px;
+    height: 650px;
+}
+.backgrount22 img{
+    max-width: 100%;
+}
+.backgrount22 p{
+    font-size: 27px;
+    line-height: 45px;
+    margin-top: -350px;
+    position: absolute;
+    color: #ffffff;
+    margin-left: 74px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+.backgrount22 h5{
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: -300px;
+    margin-left: 74px;
+    color: #ffffff;
+    position: absolute  ;
+}
+.backgrount22 button{
+    background-color: transparent;
+    border: 2px solid;
+    width: 130px;
+    height: 45px;
+    position: absolute;
+    margin-top: 539px;
+    margin-left: -574px;
+    border-color: #ffffff;
+    color: #ffffff;
+    cursor: pointer;
+}
+.backgrount22 button:hover{
+    background-color: #fff;
+    color: #000000;
+}
+/* ------------------------------------------------------------------------------ */
+.sec3{
+    width: 100%;
+    height: 450px;
+    /* background-color: #000000; */
+}
+.sec3 video{
+    width: 616px;
+    margin-left: 141px;
+    margin-top: 61px;
+}
+.sec3 h5{
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: -260px;
+    margin-left: 857px;
+    color: #262626;
+    position: absolute;
+}
+.sec3 button{
+    background-color: transparent;
+    border: 2px solid;
+    width: 366px;
+    height: 45px;
+    position: absolute;
+    margin-top: 291px;
+    margin-left: 101px;
+    border-color: #262626;
+    color: #262626;
+}
+.sec3 button:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+/* -------------------------------------------------------------- */
+.sec4{
+    width: 100%;
+    height: 494px;
+    background-color: #262626;
+}
+.sec4 h1{
+    color: #fff;
+    line-height: 1.2;
+    font-size: 29n m,px;
+    width: 18px;
+    margin-left: 72px;
+    padding-top: 23px;
+    height: 169px;
+}
+.sec4 p{
+    color: #fff;
+    margin-left: 72px;
+    line-height: 1.45;
+}
+.sec4 button{
+    background-color: transparent;
+    border: 2px solid;
+    width: 130px;
+    height: 45px;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 72px;
+    border-color: #ffffff;
+    color: #ffffff;
+    cursor: pointer;
+}
+.sec4 button:hover{
+    background-color: #fff;
+    color: #000000;
+}
